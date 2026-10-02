@@ -22,3 +22,12 @@
 <img width="1575" height="1181" alt="微信图片_20261002171017_8_137" src="https://github.com/user-attachments/assets/a7acb78b-607e-4869-8e7b-95b5cab1c6ea" />
 <img width="1575" height="1181" alt="微信图片_20261002171016_7_137" src="https://github.com/user-attachments/assets/c76ead57-d317-4ea2-9abd-d23b21e8a981" />
 <img width="1575" height="1181" alt="微信图片_20261002171015_6_137" src="https://github.com/user-attachments/assets/c1e430aa-2f79-4f2f-8f46-6a52043cde54" />
+
+-了解后选择下载Ollama
+<img width="1575" height="1181" alt="微信图片_20261002174514_11_137" src="https://github.com/user-attachments/assets/4a24eb9e-ecc3-48c0-982b-9d8b90a7ecfd" />
+
+-视奸群聊下载了qwen2.5:3b
+<img width="1575" height="1181" alt="微信图片_20261002174513_10_137" src="https://github.com/user-attachments/assets/c0f8b65b-d1e7-48ae-941f-bc9f877d2c59" />
+
+-问题4：因为多次失败所以问了qwen是否已经在本地部署了，显示没有
+-解决：询问DS发现是训练设定
