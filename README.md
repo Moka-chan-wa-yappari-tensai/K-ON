@@ -31,3 +31,4 @@
 
 -问题4：因为多次失败所以问了qwen是否已经在本地部署了，显示没有
 -解决：询问DS发现是训练设定
+<img width="1706" height="1279" alt="微信图片_20261002164843_4_137" src="https://github.com/user-attachments/assets/b7e50c6a-06b3-40d2-91f2-23539b73392e" />
