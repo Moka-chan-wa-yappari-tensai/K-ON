@@ -20,3 +20,5 @@
 -问题3：更换后仍然无法解决，再次寻求DS帮助，得知仍为版本历史遗留问题且evalscope与模型部署并无太大关系
 -解决：跳过该步骤，以后学习更多知识了再解决
 <img width="1575" height="1181" alt="微信图片_20261002171017_8_137" src="https://github.com/user-attachments/assets/a7acb78b-607e-4869-8e7b-95b5cab1c6ea" />
+<img width="1575" height="1181" alt="微信图片_20261002171016_7_137" src="https://github.com/user-attachments/assets/c76ead57-d317-4ea2-9abd-d23b21e8a981" />
+<img width="1575" height="1181" alt="微信图片_20261002171015_6_137" src="https://github.com/user-attachments/assets/c1e430aa-2f79-4f2f-8f46-6a52043cde54" />
