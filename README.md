@@ -32,3 +32,5 @@
 -问题4：因为多次失败所以问了qwen是否已经在本地部署了，显示没有
 -解决：询问DS发现是训练设定
 <img width="1706" height="1279" alt="微信图片_20261002164843_4_137" src="https://github.com/user-attachments/assets/b7e50c6a-06b3-40d2-91f2-23539b73392e" />
+
+-在使用python调用本地api时，触发了Windows环境下的ConnectionError（端口11434连接失败）。我已尝试关闭代理、修改localhost为127.0.0.1等排查方法，仍然无法战胜。后续会在学习中进一步改进。
