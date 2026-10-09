@@ -34,3 +34,9 @@
 <img width="1706" height="1279" alt="微信图片_20261002164843_4_137" src="https://github.com/user-attachments/assets/b7e50c6a-06b3-40d2-91f2-23539b73392e" />
 
 -在使用python调用本地api时，触发了Windows环境下的ConnectionError（端口11434连接失败）。我已尝试关闭代理、修改localhost为127.0.0.1等排查方法，仍然无法战胜。后续会在学习中进一步改进。
+
+
+####智能体
+-注册coze，并进行初步了解
+<img width="2273" height="1286" alt="屏幕截图 2026-10-09 200155" src="https://github.com/user-attachments/assets/81cae846-7dc4-41a9-8ebb-8e6f2793b476" />
+<img width="2100" height="1397" alt="屏幕截图 2026-10-09 200654" src="https://github.com/user-attachments/assets/4d5a1257-3d20-46c9-93f8-11bfe8bc16b9" />
