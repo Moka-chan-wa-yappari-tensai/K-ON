@@ -1,13 +1,13 @@
 # K-ON
 二面实战部分记录
 
-##自我介绍
+## 自我介绍
 软工大一新生
 
-##任务
-###一、大模型 
+## 任务
+### 一、大模型 
 
-####模型部署
+#### 模型部署
 -问题1：魔搭社区提供的evalscope脚本为pip格式，本人电脑为免安装python无法处理
 -解决：通过询问DS得知ensurepip的指令，尝试后还是无法解决所以直接删了重下python
 
@@ -36,7 +36,7 @@
 -在使用python调用本地api时，触发了Windows环境下的ConnectionError（端口11434连接失败）。我已尝试关闭代理、修改localhost为127.0.0.1等排查方法，仍然无法战胜。后续会在学习中进一步改进。
 
 
-####智能体
+#### 智能体
 -注册coze，并进行初步了解
 <img width="2273" height="1286" alt="屏幕截图 2026-10-09 200155" src="https://github.com/user-attachments/assets/81cae846-7dc4-41a9-8ebb-8e6f2793b476" />
 <img width="2100" height="1397" alt="屏幕截图 2026-10-09 200654" src="https://github.com/user-attachments/assets/4d5a1257-3d20-46c9-93f8-11bfe8bc16b9" />
