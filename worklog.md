@@ -49,3 +49,7 @@
 -在coze内安装插件并进行调用
 <img width="1180" height="1063" alt="屏幕截图 2026-10-12 202403" src="https://github.com/user-attachments/assets/96fb4d14-252c-4812-8f44-92aa4ed93acd" />
 
+-借助ai帮助，完成简易cli智能体，并通过自身需求改进prompt
+<img width="2206" height="1406" alt="屏幕截图 2026-10-14 225357" src="https://github.com/user-attachments/assets/e90c5b6b-4d85-47ce-9fa9-6090a674afb9" />
+
+
