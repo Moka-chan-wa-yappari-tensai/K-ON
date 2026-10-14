@@ -11,3 +11,5 @@
 -worklog.md #工程日志
 
 -readme.md #项目说明书
+
+-TA Assistant.md #为TA方向定制的CLI智能体，辅助完成blender脚本
