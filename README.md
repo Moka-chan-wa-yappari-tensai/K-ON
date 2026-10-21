@@ -10,6 +10,8 @@
 
 -worklog.md #工程日志
 
--readme.md #项目说明书
+-README.md #项目说明书
 
 -TA Assistant.md #为TA方向定制的CLI智能体，辅助完成blender脚本
+
+-web_app.py  #Web版本：基于Streamlit封装的可视化网页交互界面
