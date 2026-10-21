@@ -52,4 +52,15 @@
 -借助ai帮助，完成简易cli智能体，并通过自身需求改进prompt
 <img width="2206" height="1406" alt="屏幕截图 2026-10-14 225357" src="https://github.com/user-attachments/assets/e90c5b6b-4d85-47ce-9fa9-6090a674afb9" />
 
+-在AI帮助下利用streamlit制作简易web app
+
+-问题5：代码运行失败
+-解决：通过AI进行代码优化
+<img width="838" height="521" alt="屏幕截图 2026-10-21 205911" src="https://github.com/user-attachments/assets/bce46120-efd2-4e4f-b033-a59d22f1a7c3" />
+
+<img width="1273" height="786" alt="屏幕截图 2026-10-21 210044" src="https://github.com/user-attachments/assets/47bd0c14-81e8-417f-907d-635cccf39360" 
+
+  -在以上基础上接入本地部署的qwen
+  <img width="1277" height="796" alt="屏幕截图 2026-10-21 210408" src="https://github.com/user-attachments/assets/4d538765-80d2-405a-af9e-5ceb49d82bc3" />
+
 
