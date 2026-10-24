@@ -8,10 +8,14 @@
 
 -agent.py  # 核心脚本：包含Ollama API调用请求
 
--worklog.md #工程日志
+-worklog.md # 工程日志
 
--README.md #项目说明书
+-README.md # 项目说明书
 
--TA Assistant.md #为TA方向定制的CLI智能体，辅助完成blender脚本
+-TA Assistant.md # 为TA方向定制的CLI智能体，辅助完成blender脚本
 
--web_app.py  #Web版本：基于Streamlit封装的可视化网页交互界面
+-web_app.py  # Web版本：基于Streamlit封装的可视化网页交互界面
+
+-yolo_test # 计算机视觉模块（CV）
+-predict.py #yolo8推理脚本
+-yolo_test.jpg #ai目标检测结果图
