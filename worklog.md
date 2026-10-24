@@ -63,4 +63,30 @@
   -在以上基础上接入本地部署的qwen
   <img width="1277" height="796" alt="屏幕截图 2026-10-21 210408" src="https://github.com/user-attachments/assets/4d538765-80d2-405a-af9e-5ceb49d82bc3" />
 
+  ### 二、YOLO
+
+  -安装NVIDIA显卡驱动
+  <img width="1280" height="800" alt="屏幕截图 2026-10-24 001354" src="https://github.com/user-attachments/assets/c99fcb2b-69a8-43d2-a5ee-02b648a8cb3b" />
+
+  -安装Anaconda，创建虚拟环境
+
+  -安装PyTorch
+  <img width="1280" height="800" alt="屏幕截图 2026-10-24 153944" src="https://github.com/user-attachments/assets/b5948706-3eae-4c46-bccb-898bd6981c4e" />
+
+  -安装Ultralytics框架
+  <img width="1280" height="800" alt="屏幕截图 2026-10-24 160743" src="https://github.com/user-attachments/assets/83bc35da-4d2c-4c7d-8cda-bbac057d7e0d" />
+
+  -问题5：版本匹配失败
+
+  -解决：删除重新下载更匹配的版本
+  <img width="1280" height="800" alt="屏幕截图 2026-10-24 163144" src="https://github.com/user-attachments/assets/ed3665c1-bc26-431f-8bee-bc7779cfac7e" />
+
+  -进行测试
+  <img width="1280" height="800" alt="屏幕截图 2026-10-24 165928" src="https://github.com/user-attachments/assets/02dc98fa-6962-4d94-a080-7ab878bf715c" />
+
+
+
+
+
+
 
