@@ -1,7 +1,7 @@
 # aiu interniew:
 
 ## 项目简介
-基于Ollama部署的Qwen2.5模型
+基于Ollama部署的Qwen2.5模型，运用Python脚本调用API,并在此基础上尝试了基础的Web界面的封装与视觉模型探索。
 
 ## 工程结构
 '''text
